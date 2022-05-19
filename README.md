@@ -1,5 +1,7 @@
 # Carpooling app - in development
 
+This application is developed with Flutter and Dart. For state management, BLoC library is used. For the Backend, Firebase is used. More specifically, Cloud Functions are used to run backend codes.
+
 ## Create Account
 <img src="https://user-images.githubusercontent.com/45925541/168900742-c04d8d64-edf0-4a70-8120-20cb4635937d.gif" height="480">
 
